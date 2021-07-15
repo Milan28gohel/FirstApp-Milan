@@ -15,7 +15,6 @@ const getPhotoStarted = () => ({
     error: true
   }); 
 
-
   export const getPhoto=()=>{
     
     return dispatch => {

@@ -19,11 +19,9 @@ function App() {
         </Route>
         </Switch>
       <div>
-        
       </div>
     </div>
-    </Router> 
-    
+    </Router>  
   );
 }
 
